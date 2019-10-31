@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/go-plugin/test/grpc"
+	"github.com/syndbg/go-plugin/test/grpc"
 	"google.golang.org/grpc"
 )
 

@@ -1,7 +1,7 @@
 package shared
 
 import (
-	"github.com/hashicorp/go-plugin/examples/grpc/proto"
+	"github.com/syndbg/go-plugin/examples/grpc/proto"
 	"golang.org/x/net/context"
 )
 

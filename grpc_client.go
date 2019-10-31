@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/hashicorp/go-plugin/internal/plugin"
+	"github.com/syndbg/go-plugin/internal/plugin"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

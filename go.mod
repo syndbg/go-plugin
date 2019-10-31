@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-plugin
+module github.com/syndbg/go-plugin
 
 require (
 	github.com/golang/protobuf v1.3.2

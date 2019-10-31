@@ -15,7 +15,7 @@ import (
 	"time"
 
 	hclog "github.com/hashicorp/go-hclog"
-	grpctest "github.com/hashicorp/go-plugin/test/grpc"
+	grpctest "github.com/syndbg/go-plugin/test/grpc"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

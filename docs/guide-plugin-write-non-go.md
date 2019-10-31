@@ -11,7 +11,7 @@ alone is enough gRPC knowledge to continue.
 
 This guide will implement the kv example in Python.
 Full source code for the examples present in this guide
-[is available in the examples/grpc folder](https://github.com/hashicorp/go-plugin/tree/master/examples/grpc).
+[is available in the examples/grpc folder](https://github.com/syndbg/go-plugin/tree/master/examples/grpc).
 
 ## 1. Implement the Service
 

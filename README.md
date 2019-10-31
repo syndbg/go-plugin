@@ -126,7 +126,7 @@ That's it! In practice, step 2 is the most tedious and time consuming step.
 Even so, it isn't very difficult and you can see examples in the `examples/`
 directory as well as throughout our various open source projects.
 
-For complete API documentation, see [GoDoc](https://godoc.org/github.com/hashicorp/go-plugin).
+For complete API documentation, see [GoDoc](https://godoc.org/github.com/syndbg/go-plugin).
 
 ## Roadmap
 

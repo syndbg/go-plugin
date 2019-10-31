@@ -9,7 +9,7 @@ import (
 
 	"github.com/mitchellh/go-testing-interface"
 	hclog "github.com/hashicorp/go-hclog"
-	"github.com/hashicorp/go-plugin/internal/plugin"
+	"github.com/syndbg/go-plugin/internal/plugin"
 	"google.golang.org/grpc"
 )
 
